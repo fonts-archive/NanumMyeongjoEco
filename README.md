@@ -1,6 +1,6 @@
 # Nanum Myeongjo Eco
 
-[Visit Source](https://hangeul.naver.com/font) · [Download Font Family](https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjoEco/NanumMyeongjoEco.zip)
+[Visit Source](https://hangeul.naver.com/font)
 
 &nbsp;
 
@@ -15,7 +15,7 @@ font-family: 'Nanum Myeongjo Eco';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjoEco/NanumMyeongjoEco.css"/>
+<link rel='stylesheet' href='https://cdn.statically.io/gh/fonts-archive/NanumMyeongjoEco/main/NanumMyeongjoEco.css'/>
 ```
 
 &nbsp;
@@ -23,7 +23,7 @@ link
 import
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjoEco/NanumMyeongjoEco.css');
+@import url('https://cdn.statically.io/gh/fonts-archive/NanumMyeongjoEco/main/NanumMyeongjoEco.css');
 ```
 
 &nbsp;
@@ -31,5 +31,5 @@ import
 URL
 
 ```
-https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjoEco/NanumMyeongjoEco.css
+https://cdn.statically.io/gh/fonts-archive/NanumMyeongjoEco/main/NanumMyeongjoEco.css
 ```
