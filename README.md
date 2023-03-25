@@ -15,7 +15,7 @@ font-family: 'Nanum Myeongjo Eco';
 link
 
 ```
-<link rel='stylesheet' href='https://cdn.statically.io/gh/fonts-archive/NanumMyeongjoEco/main/NanumMyeongjoEco.css'/>
+<link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjoEco/NanumMyeongjoEco.css'/>
 ```
 
 &nbsp;
@@ -23,7 +23,7 @@ link
 import
 
 ```
-@import url('https://cdn.statically.io/gh/fonts-archive/NanumMyeongjoEco/main/NanumMyeongjoEco.css');
+@import url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjoEco/NanumMyeongjoEco.css');
 ```
 
 &nbsp;
@@ -31,5 +31,5 @@ import
 URL
 
 ```
-https://cdn.statically.io/gh/fonts-archive/NanumMyeongjoEco/main/NanumMyeongjoEco.css
+https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjoEco/NanumMyeongjoEco.css
 ```
