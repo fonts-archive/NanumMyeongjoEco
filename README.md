@@ -28,8 +28,28 @@ import
 
 &nbsp;
 
-URL
+font-face
 
 ```
-https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjoEco/NanumMyeongjoEco.css
+@font-face {
+    font-family: 'Nanum Myeongjo Eco';
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjoEco/NanumMyeongjoEco.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Nanum Myeongjo Eco';
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjoEco/NanumMyeongjoEcoBold.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Nanum Myeongjo Eco';
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjoEco/NanumMyeongjoEcoExtraBold.otf') format('opentype');
+}
 ```
