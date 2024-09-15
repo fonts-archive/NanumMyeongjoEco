@@ -1,36 +1,28 @@
-# Nanum Myeongjo Eco
+# 나눔 명조 에코
 
-[Visit Source](https://hangeul.naver.com/font)
-
-&nbsp;
-
-### CSS
-
-```
-font-family: 'Nanum Myeongjo Eco';
-```
+[배포처 바로가기](https://hangeul.naver.com/font)
 
 &nbsp;
 
-### link
+## 웹 폰트
 
-```
+사용하는 `font-family`의 이름은 `Nanum Myeongjo Eco`입니다.
+
+### HTML
+
+```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjoEco/NanumMyeongjoEco.css" type="text/css"/>
 ```
 
-&nbsp;
+### CSS `@Import`
 
-### import
-
-```
+```css
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjoEco/NanumMyeongjoEco.css');
 ```
 
-&nbsp;
+### CSS `@font-face`
 
-### font-face
-
-```
+```css
 @font-face {
     font-family: 'Nanum Myeongjo Eco';
     font-weight: 400;
@@ -62,7 +54,20 @@ font-family: 'Nanum Myeongjo Eco';
 
 &nbsp;
 
-### 라이센스 본문
+## font-family
+
+어느 브라우저나 시스템 환경에서도 동일한 폰트가 적용되어야 한다면 아래와 같이 구성하는 걸 추천합니다. `-apple-system`과 `BlinkMacSystemFont`는 맥, `Segoe UI`는 윈도우, `Roboto`는 안드로이드의 기본 폰트입니다.
+
+
+```css
+font-family: "Nanum Myeongjo Eco", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+```
+
+&nbsp;
+
+## 라이선스
+
+라이선스는 언제든지 변경될 수 있습니다. 변경사항을 확인하려면 배포처를 방문해 주세요.
 
 ```
 네이버에서 제작한 나눔 글꼴과 마루 부리 글꼴, 클로바 나눔손글씨(이하 네이버 글꼴)의 지적 재산권은 네이버와 네이버 문화재단에 있습니다.
